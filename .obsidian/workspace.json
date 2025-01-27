@@ -1,37 +1,56 @@
 {
   "main": {
-    "id": "5fe4974e78fec2ea",
+    "id": "01d65f996e1e3949",
     "type": "split",
     "children": [
       {
-        "id": "d0ac6b207bdbfc99",
+        "id": "05a427187c4f60de",
         "type": "tabs",
         "children": [
           {
-            "id": "a4c67d61eab50e23",
+            "id": "312903086f71331d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Coding Notes/Frameworks/Pytorch/3 - Backpropagation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3 - Backpropagation"
+            }
+          },
+          {
+            "id": "acdf8dfb0ffbd8a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding Notes/Frameworks/Pytorch/4 - Gradient Descent with Autograd and Backprop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - Gradient Descent with Autograd and Backprop"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4c9eee0bd3e1efca",
+    "id": "427eabdde570c84d",
     "type": "split",
     "children": [
       {
-        "id": "21c8e704c3afc0f6",
+        "id": "37481398b4a53b89",
         "type": "tabs",
         "children": [
           {
-            "id": "cea19cbd9f023fc6",
+            "id": "25da3719ee100087",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +62,7 @@
             }
           },
           {
-            "id": "8d9856b22368cdff",
+            "id": "3eb4d222bd9e6d24",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +79,7 @@
             }
           },
           {
-            "id": "d748f0599ce4158c",
+            "id": "629039239666f8f4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,15 +95,15 @@
     "width": 300
   },
   "right": {
-    "id": "44727f3306789812",
+    "id": "f0a4dc6f955191e7",
     "type": "split",
     "children": [
       {
-        "id": "6a11fe8e244776ea",
+        "id": "96ce8647bf0529d8",
         "type": "tabs",
         "children": [
           {
-            "id": "1827422b449c5108",
+            "id": "2f990470f0c5888a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -102,7 +121,7 @@
             }
           },
           {
-            "id": "6b313e2464f1076b",
+            "id": "8f52ac23c448b5cd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -115,7 +134,7 @@
             }
           },
           {
-            "id": "6f9cf6cff93910a3",
+            "id": "21184a9b6d662e32",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +147,7 @@
             }
           },
           {
-            "id": "7be66fbcb0bebd1b",
+            "id": "0a8316a3ad8ac262",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -154,6 +173,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4c67d61eab50e23",
-  "lastOpenFiles": []
+  "active": "25da3719ee100087",
+  "lastOpenFiles": [
+    "Coding Notes/Frameworks/Pytorch/3 - Backpropagation.md",
+    "Coding Notes/Frameworks/Pytorch/4 - Gradient Descent with Autograd and Backprop.md",
+    "Coding Notes/Frameworks/Pytorch/2 - Autograd.md",
+    "Coding Notes/Frameworks/Pytorch/1 - Basics.md",
+    "Coding Notes/Frameworks/Pytorch",
+    "Coding Notes/Frameworks",
+    "Coding Notes/New folder",
+    "Coding Notes/Languages/CSS/The box model.md",
+    "Coding Notes/Languages/CSS/Visual Rules.md",
+    "Coding Notes/Languages/CSS/Setup and Syntax.md",
+    "Coding Notes/Languages/CSS/Selectors.md",
+    "Coding Notes/Languages/CSS",
+    "Coding Notes/Languages/JS/React/Intro.md",
+    "Coding Notes/Languages/JS/Node/Overview.md",
+    "Coding Notes/Languages/JS/React",
+    "Coding Notes/Languages/JS/Node",
+    "Coding Notes/Languages/JS/Javascript",
+    "Coding Notes/Languages/JS",
+    "Coding Notes/Languages/HTML/Intro to HTML.md",
+    "Coding Notes/Languages/HTML/HTML Document Standards.md",
+    "Coding Notes/Languages/HTML",
+    "Coding Notes/Languages",
+    "Coding Notes/Full Stack Development/MERN/Overview.md",
+    "Coding Notes/CSS/The box model.md",
+    "Coding Notes/CSS/Visual Rules.md",
+    "Coding Notes/CSS/Selectors.md",
+    "Coding Notes/CSS/Setup and Syntax.md",
+    "Coding Notes/JS/Node/Overview.md",
+    "Coding Notes/JS/React/Intro.md",
+    "Coding Notes/HTML/Intro to HTML.md",
+    "Coding Notes/HTML/HTML Document Standards.md",
+    "Coding Notes/Development/MERN/Overview.md",
+    "Coding Notes/Coding/JS/Node/Overview.md",
+    "Coding Notes/Coding/JS/React/Intro.md",
+    "Coding Notes/Coding/Development/MERN/Overview.md",
+    "Coding Notes/Coding/HTML/HTML Document Standards.md"
+  ]
 }

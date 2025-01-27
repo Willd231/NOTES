@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "1fea9f90f2d58002",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfe3fa39d7cc606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d686897ce6fd7ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca435ce3e4e353ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9218b87c8bb4f2f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f83bbdd96bba61a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e3d1c5118dd76c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cool-title",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18391157699edea7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f865fc2f6cfbd31b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d86dbf273c8241f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d198af552e7849",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTML/HTML Document Standards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HTML Document Standards"
+            }
+          },
+          {
+            "id": "c26ddcdf21bcc9c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTML/HTML Document Standards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HTML Document Standards"
+            }
+          },
+          {
+            "id": "126c074a126f6457",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a030fce36689a72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTML/HTML Document Standards.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HTML Document Standards"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0d686897ce6fd7ac",
+  "lastOpenFiles": [
+    "JS/React/Intro.md",
+    "JS/Node/Overview.md",
+    "Development/MERN/Overview.md",
+    "CSS/The box model.md",
+    "CSS/Visual Rules.md",
+    "CSS/Selectors.md",
+    "CSS/Setup and Syntax.md",
+    "HTML/HTML Document Standards.md",
+    "Development/MERN",
+    "Development",
+    "JS/Node",
+    "JS/Javascript",
+    "JS/Javascript.md",
+    "JS/React",
+    "Untitled.canvas",
+    "HTML/Intro to HTML.md",
+    "Welcome.md",
+    "CSS",
+    "HTML",
+    "JS"
+  ]
+}

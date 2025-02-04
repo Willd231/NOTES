@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding Notes/Frameworks/Pytorch/4 - Gradient Descent with Autograd and Backprop.md",
+                "file": "school/Spring2025/Systems Software/Lectures/8 - Processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Gradient Descent with Autograd and Backprop"
+              "title": "8 - Processes"
             }
           }
         ],
@@ -173,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25da3719ee100087",
+  "active": "acdf8dfb0ffbd8a6",
   "lastOpenFiles": [
+    "school/Spring2025/Systems Software/Lectures/8 - Processes.md",
     "Coding Notes/Frameworks/Pytorch/3 - Backpropagation.md",
     "Coding Notes/Frameworks/Pytorch/4 - Gradient Descent with Autograd and Backprop.md",
     "Coding Notes/Frameworks/Pytorch/2 - Autograd.md",
@@ -209,7 +210,6 @@
     "Coding Notes/Development/MERN/Overview.md",
     "Coding Notes/Coding/JS/Node/Overview.md",
     "Coding Notes/Coding/JS/React/Intro.md",
-    "Coding Notes/Coding/Development/MERN/Overview.md",
-    "Coding Notes/Coding/HTML/HTML Document Standards.md"
+    "Coding Notes/Coding/Development/MERN/Overview.md"
   ]
 }
